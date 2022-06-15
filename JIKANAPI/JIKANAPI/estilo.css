@@ -4,7 +4,7 @@
     font-family: 'Permanent Marker', cursive;
 }
 
-img{
+.logo{
     width: 50px;
     display: block;
     margin: auto;
@@ -80,4 +80,10 @@ body {
 
 .resultado{
     margin: 20px;
+}
+
+img{
+    width: 300px;
+    display: block;
+    margin: auto;
 }
